@@ -26,7 +26,7 @@ SUPABASE_SERVICE_ROLE_KEY=
 
 **Clone the Repository**:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/bridge-23/Waitlist-Airdrop
    cd 
 
 First, run the development server:
